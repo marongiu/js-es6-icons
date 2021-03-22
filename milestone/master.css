@@ -22,11 +22,11 @@ i {
 }
 
 .light-blue {
-  color: lightblue;
+  color: #6bb6ff;
 }
 
 .bg-lightblue {
-  background-color: lightblue;
+  background-color: #6bb6ff;
 }
 
 .select {
@@ -37,6 +37,7 @@ i {
 .title h1 {
   padding-left: 10px;
   padding-bottom: 2px;
+  font-size: 45px;
 }
 
 h5 {
@@ -66,9 +67,11 @@ h5 {
 
 .special {
   background-color: #eeee;
-  padding-bottom: 465px;
+  padding-bottom: 50px;
 }
 
 .name {
+  font-size: 12px;
+  text-transform: uppercase;
   padding: 5px 0;
 }
